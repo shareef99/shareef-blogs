@@ -3,6 +3,12 @@
     "displayName": "shareef-blogs",
     "description": "A vs-code extension to search blogs of shareef.",
     "version": "0.0.1",
+    "publisher": "NadeemShareef",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shareef99/show-time"
+    },
+    "icon": "shareef blog.jpg",
     "engines": {
         "vscode": "^1.60.0"
     },
