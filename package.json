@@ -6,9 +6,9 @@
     "publisher": "NadeemShareef",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shareef99/show-time"
+        "url": "https://github.com/shareef99/shareef-blogs"
     },
-    "icon": "shareef blog.jpg",
+    "icon": "shareefBlog.jpg",
     "engines": {
         "vscode": "^1.60.0"
     },
